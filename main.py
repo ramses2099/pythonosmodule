@@ -22,7 +22,7 @@ def main():
     #     print("File not found")
 
     # for _, _, files in os.walk("data"):
-    #     for file in files:
+    #     for file in files:gi
     #         print(file)
     command = "dir"
     sp = subprocess.Popen(
